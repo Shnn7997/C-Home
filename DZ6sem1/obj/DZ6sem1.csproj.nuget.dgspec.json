@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DZseminars\\DZ6sem1\\DZ6sem1.csproj": {}
+    "E:\\DZseminars\\DZ6Sem1\\DZ6Sem1.csproj": {}
   },
   "projects": {
-    "E:\\DZseminars\\DZ6sem1\\DZ6sem1.csproj": {
+    "E:\\DZseminars\\DZ6Sem1\\DZ6Sem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DZseminars\\DZ6sem1\\DZ6sem1.csproj",
-        "projectName": "DZ6sem1",
-        "projectPath": "E:\\DZseminars\\DZ6sem1\\DZ6sem1.csproj",
+        "projectUniqueName": "E:\\DZseminars\\DZ6Sem1\\DZ6Sem1.csproj",
+        "projectName": "DZ6Sem1",
+        "projectPath": "E:\\DZseminars\\DZ6Sem1\\DZ6Sem1.csproj",
         "packagesPath": "C:\\Users\\shnn7\\.nuget\\packages\\",
-        "outputPath": "E:\\DZseminars\\DZ6sem1\\obj\\",
+        "outputPath": "E:\\DZseminars\\DZ6Sem1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
