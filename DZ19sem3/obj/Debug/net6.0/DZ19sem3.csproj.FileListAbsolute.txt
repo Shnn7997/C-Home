@@ -1,0 +1,15 @@
+E:\DZseminars\DZ19sem3\bin\Debug\net6.0\DZ19sem3.exe
+E:\DZseminars\DZ19sem3\bin\Debug\net6.0\DZ19sem3.deps.json
+E:\DZseminars\DZ19sem3\bin\Debug\net6.0\DZ19sem3.runtimeconfig.json
+E:\DZseminars\DZ19sem3\bin\Debug\net6.0\DZ19sem3.dll
+E:\DZseminars\DZ19sem3\bin\Debug\net6.0\DZ19sem3.pdb
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.csproj.AssemblyReference.cache
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.AssemblyInfoInputs.cache
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.AssemblyInfo.cs
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.csproj.CoreCompileInputs.cache
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.dll
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\refint\DZ19sem3.dll
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.pdb
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\DZ19sem3.genruntimeconfig.cache
+E:\DZseminars\DZ19sem3\obj\Debug\net6.0\ref\DZ19sem3.dll
