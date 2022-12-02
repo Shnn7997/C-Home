@@ -1,0 +1,15 @@
+E:\DZseminars\DZ4Sem1\bin\Debug\net6.0\DZ4Sem1.exe
+E:\DZseminars\DZ4Sem1\bin\Debug\net6.0\DZ4Sem1.deps.json
+E:\DZseminars\DZ4Sem1\bin\Debug\net6.0\DZ4Sem1.runtimeconfig.json
+E:\DZseminars\DZ4Sem1\bin\Debug\net6.0\DZ4Sem1.dll
+E:\DZseminars\DZ4Sem1\bin\Debug\net6.0\DZ4Sem1.pdb
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.csproj.AssemblyReference.cache
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.AssemblyInfoInputs.cache
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.AssemblyInfo.cs
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.csproj.CoreCompileInputs.cache
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.dll
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\refint\DZ4Sem1.dll
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.pdb
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\DZ4Sem1.genruntimeconfig.cache
+E:\DZseminars\DZ4Sem1\obj\Debug\net6.0\ref\DZ4Sem1.dll
