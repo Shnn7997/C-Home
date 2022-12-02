@@ -1,0 +1,15 @@
+E:\DZseminars\DZ15Sem2\bin\Debug\net6.0\DZ15Sem2.exe
+E:\DZseminars\DZ15Sem2\bin\Debug\net6.0\DZ15Sem2.deps.json
+E:\DZseminars\DZ15Sem2\bin\Debug\net6.0\DZ15Sem2.runtimeconfig.json
+E:\DZseminars\DZ15Sem2\bin\Debug\net6.0\DZ15Sem2.dll
+E:\DZseminars\DZ15Sem2\bin\Debug\net6.0\DZ15Sem2.pdb
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.csproj.AssemblyReference.cache
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.AssemblyInfoInputs.cache
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.AssemblyInfo.cs
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.csproj.CoreCompileInputs.cache
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.dll
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\refint\DZ15Sem2.dll
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.pdb
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\DZ15Sem2.genruntimeconfig.cache
+E:\DZseminars\DZ15Sem2\obj\Debug\net6.0\ref\DZ15Sem2.dll
