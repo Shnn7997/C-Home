@@ -1,4 +1,7 @@
-﻿using System;
+﻿//Задача 19 Напишите программу, которая принимает на вход пятизначное число и проверяет, 
+//является ли оно палиндромом.
+
+using System;
 using static System.Console;
 
 namespace SEM_PROG3
@@ -17,20 +20,20 @@ namespace SEM_PROG3
         {
             if (num >= 0 && num <10)
                 return true;
-            int numLength = GetLength(num);
-            int[] digit = new int[numLength];
-            for (int i = numLength - 1; i >= 0; i--) {
+            int numLen = GetLen(num);
+            int[] digit = new int[numLen];
+            for (int i = numLen - 1; i >= 0; i--) {
                 digit[i] = num % 10;
                 num /= 10;
             }
-            for (int i = 0; i < numLength/2; i++) {
-                if (digit[i] != digit[numLength - i - 1])
+            for (int i = 0; i < numLen/2; i++) {
+                if (digit[i] != digit[numLen - i - 1])
                     return false;
             }
             return true;
         }
         
-        static int GetLength(int num)
+        static int GetLen(int num)
         {
             int n = 0;
             while (num > 0) {
