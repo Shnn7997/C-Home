@@ -31,3 +31,4 @@ int Z = Z1 - Z2;
 double distance = Math.Sqrt(Math.Pow(X, 2) + Math.Pow(Y, 2) + Math.Pow(Z, 2));
 WriteLine($"Расстояние между точками в пространстве равно {distance:f2}");
 ReadKey();
+
