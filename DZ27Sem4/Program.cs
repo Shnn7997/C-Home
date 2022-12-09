@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+using System;
 using static System.Console;
 
 WriteLine("Введите число");
