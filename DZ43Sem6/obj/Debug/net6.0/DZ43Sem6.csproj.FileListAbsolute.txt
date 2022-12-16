@@ -1,0 +1,15 @@
+E:\DZseminars\DZ43Sem6\bin\Debug\net6.0\DZ43Sem6.exe
+E:\DZseminars\DZ43Sem6\bin\Debug\net6.0\DZ43Sem6.deps.json
+E:\DZseminars\DZ43Sem6\bin\Debug\net6.0\DZ43Sem6.runtimeconfig.json
+E:\DZseminars\DZ43Sem6\bin\Debug\net6.0\DZ43Sem6.dll
+E:\DZseminars\DZ43Sem6\bin\Debug\net6.0\DZ43Sem6.pdb
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.csproj.AssemblyReference.cache
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.AssemblyInfoInputs.cache
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.AssemblyInfo.cs
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.csproj.CoreCompileInputs.cache
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.dll
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\refint\DZ43Sem6.dll
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.pdb
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\DZ43Sem6.genruntimeconfig.cache
+E:\DZseminars\DZ43Sem6\obj\Debug\net6.0\ref\DZ43Sem6.dll
