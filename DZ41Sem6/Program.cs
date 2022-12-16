@@ -15,7 +15,7 @@ Clear();
 Write("Введите элементы массива через запятую: ");
 int[] array = GetArrayFromString(ReadLine());
 WriteLine($"[{String.Join(",", array)}]");
-Write(findNumbArray(array));
+WriteLine($"Чисел больше 0: {findNumbArray(array)}");
 
 
 
