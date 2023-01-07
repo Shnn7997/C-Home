@@ -1,0 +1,15 @@
+E:\DZseminars\DZ64SemItog\bin\Debug\net6.0\DZ64SemItog.exe
+E:\DZseminars\DZ64SemItog\bin\Debug\net6.0\DZ64SemItog.deps.json
+E:\DZseminars\DZ64SemItog\bin\Debug\net6.0\DZ64SemItog.runtimeconfig.json
+E:\DZseminars\DZ64SemItog\bin\Debug\net6.0\DZ64SemItog.dll
+E:\DZseminars\DZ64SemItog\bin\Debug\net6.0\DZ64SemItog.pdb
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.csproj.AssemblyReference.cache
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.GeneratedMSBuildEditorConfig.editorconfig
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.AssemblyInfoInputs.cache
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.AssemblyInfo.cs
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.csproj.CoreCompileInputs.cache
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.dll
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\refint\DZ64SemItog.dll
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.pdb
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\DZ64SemItog.genruntimeconfig.cache
+E:\DZseminars\DZ64SemItog\obj\Debug\net6.0\ref\DZ64SemItog.dll

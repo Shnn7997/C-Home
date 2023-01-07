@@ -4,8 +4,8 @@
 using System;
 using static System.Console;
 
-
-int n = InputInt("Введите положительное число: ");
+WriteLine("Введите положительное число: ");
+int n = Convert.ToInt32(ReadLine());
 int m = 1;
 if (n < 1)
 {
@@ -21,10 +21,4 @@ int NumberN(int n, int m)
     else
         Write($"{NumberN(n, m + 1)}, ");
     return m;
-}
-
-int InputInt(string output)
-{
-    Write(output);
-    return int.Parse(ReadLine());
 }
