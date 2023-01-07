@@ -2,11 +2,11 @@
 using static System.Console;
 
 
-WriteLine("Введите число a: ");
-int a = Convert.ToInt32(ReadLine());
-WriteLine("Введите число b: ");
-int b = Convert.ToInt32(ReadLine());
-WriteLine($"Сумма элементов от {a} до {b} = {Sum(a, b)}");
+WriteLine("Введите число M: ");
+int m = Convert.ToInt32(ReadLine());
+WriteLine("Введите число N: ");
+int n = Convert.ToInt32(ReadLine());
+WriteLine($"Сумма элементов от {m} до {n} = {Sum(m, n)}");
 
 int Sum(int a, int b)
 {
